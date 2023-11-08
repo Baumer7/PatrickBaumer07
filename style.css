@@ -1,13 +1,15 @@
 
 p{
     text-align: center;
+    color: yellow;
 }
 
 h1{
     text-align: center;
 
-    color:rgb(255, 251, 0);
+    color: skyblue;
 }
-.paragrafo1{1
+.paragrafo1{
     color: red;
+background: black;
 }
