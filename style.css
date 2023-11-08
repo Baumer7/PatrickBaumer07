@@ -3,12 +3,16 @@ p{
     text-align: center;
     color: yellow;
 }
+
 h1{
     text-align: center;
-
     color: skyblue;
+    background: black;
 }
 .paragrafo1{
     color: red;
-background: black;
+}
+
+body{
+    background: black;
 }
